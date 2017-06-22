@@ -1,0 +1,6 @@
+// Ignore the following directories
+build
+lib /*
+
+// Ignore OSX directory specifics
+.DS_Store
